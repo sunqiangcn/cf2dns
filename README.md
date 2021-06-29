@@ -45,7 +45,7 @@
 
    ![build.png](https://img.hostmonit.com/images/2020/11/05/build.png)
 
-#### 方法二：在自己的VPS或电脑中运行
+#### 方法二：在自己的VPS或电脑中运行更新一下
 
 1. 安装运行脚本所需依赖
 
